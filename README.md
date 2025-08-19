@@ -34,16 +34,17 @@ Senior Rails engineer focused on scalable architecture, TDD, and fast, reliable 
   - Driving **process improvements** by identifying bottlenecks and rolling out actionable fixes.  
   - Mentoring engineers and raising code quality through **reviews & knowledge sharing**.  
   - Shipping **Rails + MySQL features** in close collaboration with Product & QA for fast iterations.  
-  - Advocating for **strategic engineering initiatives** and aligning them with business goals.  
+  - Advocating for **strategic engineering initiatives** and aligning them with business goals.
+  - Advocating for implementing **domain-driven** development practices.
 
 - **Software Engineer — Oyster® (Jul 2022 – Dec 2024)**  
   - Practiced **TDD** to deliver robust, maintainable features across Rails, GraphQL & React.  
-  - Drove **modularization of a large Rails monolith**, boosting scalability & maintainability.  
+  - Supported **modularization of a large Rails monolith**, boosting scalability & maintainability.  
   - Led **frontend logic for a major integration**, delivering independently and on time.  
   - Built & supported **integrations with expense providers**, ensuring seamless CX.  
-  - Designed **internal tools** to streamline workflows and boost team productivity.  
+  - Built **internal tools** to streamline workflows and boost team productivity.  
   - Contributed to **design reviews**, improving usability and overall customer experience.  
-  - Championed **hackathon projects**, driving innovation and team collaboration.  
+  - Participated to **hackathon projects**, driving innovation and team collaboration.  
 
 - **Software Engineer — OpenCorporates (Feb 2022 – Jul 2022)**  
   - Delivered new features in a **Rails codebase**, improving data accessibility.  
@@ -53,7 +54,8 @@ Senior Rails engineer focused on scalable architecture, TDD, and fast, reliable 
   - Supported **data pipelines** and ensured data quality for large-scale operations.  
 
 - **Software Developer — Hero Health (Jan 2021 – Jul 2021)**  
-  - Built and maintained **Rails features** for healthcare tooling.  
+  - Built and maintained **Rails features** for healthcare tooling.
+  - Singlehandedly launched an **ElectronJS** dormant MVP product to **production**.  
   - Worked closely with product teams to ship improvements rapidly.  
 
 

@@ -1,68 +1,63 @@
 # 👋 Hi, I'm Andrei
 
-💻 Passionate Ruby on Rails & TypeScript Developer  
-📍 Oxford, England, United Kingdom  
+**Shipping features • Solving problems • Connecting teams**
 
-Shipping features, solving problems, connecting teams, and improving processes for better outcomes.
-
----
-
-## 🧑‍💻 About Me
-- Experienced in **full-stack development** with Ruby on Rails, GraphQL, React, and TypeScript.  
-- Non-strict **TDD** practitioner
-- Admirer of maintainable and performant code.  
-- Skilled in **modular monolith architecture**, **process improvement**, and **connecting teams**.  
-- Committed to building software that prioritizes **social impact** and **positive change**.  
-- Able to jump into any project and deliver value from **day 1**.  
+Senior Rails engineer focused on scalable architecture, TDD, and fast, reliable delivery.
 
 ---
 
-## 🔧 Skills
-- **Languages & Frameworks**: Ruby on Rails, TypeScript, React, GraphQL, MySQL  
-- **Practices**: TDD, Proactive Monitoring, Full Project Lifecycle, PR Review Efficiency  
-- **Other**: Product Development, Team Management, Process Optimization  
+### ⚙️ Tech I work with
+<!-- Badges from Ileriayo/markdown-badges -->
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![RSpec](https://img.shields.io/badge/RSpec-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
 
 ---
 
-## 💼 Experience
-
-### **Senior Developer** — British Business Bank (Dec 2024 – Present)
-- Led **core process improvement initiatives** and long-term architecture strategies (transitioning to a modular monolith).  
-- Optimized the **development lifecycle** from ticket pickup to delivery.  
-- Proactively flagged inefficiencies and drove **measurable process improvements**.  
-- Mentored colleagues, fostering technical growth and improving delivery quality.  
-- Delivered features in a **Rails + MySQL** codebase, collaborating closely with Product & QA.  
+### 🧭 What I do
+- Build high-impact full-stack features (Rails • GraphQL • React/TS • Postgres/SQL )
+- Soft-grip **TDD**, clean code, and maintainability
+- Lead projects & processes improvements end-to-end
 
 ---
 
-### **Software Engineer** — Oyster® (Jul 2022 – Dec 2024)
-- Practiced **TDD** to deliver robust and maintainable code.  
-- Full-stack development across **Rails (backend), GraphQL, React (frontend)**.  
-- Contributed to **modularizing a large Rails monolith**, improving scalability & maintainability.  
-- Supported multiple **third-party integrations**, enhancing customer experience.  
-- Independently led **frontend logic for a major integration**, delivering on time.  
-- Contributed to **internal tools** to streamline workflows.  
-- Participated in **hackathons**, consistently achieving great results.  
+### 🧑‍💼 Experience  
+
+- **Senior Developer — British Business Bank (Dec 2024 – Present)**  
+  - Spearheading **modular monolith transition**, shaping long-term architecture strategy.  
+  - Streamlining the **dev lifecycle** (from ticket to PR merge), cutting delivery friction.  
+  - Driving **process improvements** by identifying bottlenecks and rolling out actionable fixes.  
+  - Mentoring engineers and raising code quality through **reviews, pairing & knowledge sharing**.  
+  - Shipping **Rails + MySQL features** in close collaboration with Product & QA for fast iterations.  
+  - Advocating for **strategic engineering initiatives** and aligning them with business goals.  
+
+- **Software Engineer — Oyster® (Jul 2022 – Dec 2024)**  
+  - Practiced **TDD** to deliver robust, maintainable features across Rails, GraphQL & React.  
+  - Drove **modularization of a large Rails monolith**, boosting scalability & maintainability.  
+  - Led **frontend logic for a major integration**, delivering independently and on time.  
+  - Built & supported **integrations with expense providers**, ensuring seamless CX.  
+  - Designed **internal tools** to streamline workflows and boost team productivity.  
+  - Contributed to **design reviews**, improving usability and overall customer experience.  
+  - Championed **hackathon projects**, driving innovation and team collaboration.  
+
+- **Software Engineer — OpenCorporates (Feb 2022 – Jul 2022)**  
+  - Delivered new features in a **Rails codebase**, improving data accessibility.  
+  - Collaborated cross-functionally to enhance system maintainability.  
+  - Grew technical foundations with **full-stack Rails development**.  
+  - Contributed to incremental improvements in performance and team workflows.  
+  - Supported **data pipelines** and ensured data quality for large-scale operations.  
+
+- **Software Developer — Hero Health (Jan 2021 – Jul 2021)**  
+  - Built and maintained **Rails features** for healthcare tooling.  
+  - Worked closely with product teams to ship improvements rapidly.  
+
 
 ---
 
-### **Software Engineer** — OpenCorporates (Jul 2021 – Jul 2022)   
-- Maintained ETL pipelines
-- Ensured data quality, and ingestion resilience
-- Maintained and created scripts for the ETL pipelines
-  
----
-
-### **Software Developer** — Hero Health (Jan 2021 – Jul 2021)  
-- Singlehandedly took a dormant ElectronJS MVP product and shipped it to production
-- Contributed to the core app with features in Ruby on Rails
----
-
-## 🎓 Education
-- **The Open University** — BSc in Computer Science (2020 – 2025)  
-- **Flatiron School** — Software Engineering (2019 – 2020)  
-
----
-
-## 🌐 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/andrei-pestenariu)  
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-pestenariu)

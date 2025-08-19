@@ -9,8 +9,9 @@ Shipping features, solving problems, connecting teams, and improving processes f
 
 ## 🧑‍💻 About Me
 - Experienced in **full-stack development** with Ruby on Rails, GraphQL, React, and TypeScript.  
-- Strong advocate of **TDD** and maintainable, performant code.  
-- Skilled in **modular monolith architecture**, **process improvement**, and **mentoring teams**.  
+- Non-strict **TDD** practitioner
+- Admirer of maintainable and performant code.  
+- Skilled in **modular monolith architecture**, **process improvement**, and **connecting teams**.  
 - Committed to building software that prioritizes **social impact** and **positive change**.  
 - Able to jump into any project and deliver value from **day 1**.  
 
@@ -45,14 +46,16 @@ Shipping features, solving problems, connecting teams, and improving processes f
 
 ---
 
-### **Software Engineer** — OpenCorporates (Feb 2022 – Jul 2022)  
-### **Junior Software Engineer** — OpenCorporates (Aug 2021 – Feb 2022)  
-### **Data Operations Engineer** — OpenCorporates (Jul 2021 – Aug 2021)  
-
+### **Software Engineer** — OpenCorporates (Jul 2021 – Jul 2022)   
+- Maintained ETL pipelines
+- Ensured data quality, and ingestion resilience
+- Maintained and created scripts for the ETL pipelines
+  
 ---
 
 ### **Software Developer** — Hero Health (Jan 2021 – Jul 2021)  
-
+- Singlehandedly took a dormant ElectronJS MVP product and shipped it to production
+- Contributed to the core app with features in Ruby on Rails
 ---
 
 ## 🎓 Education

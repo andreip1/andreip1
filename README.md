@@ -29,10 +29,10 @@ Senior Rails engineer focused on scalable architecture, TDD, and fast, reliable 
 ### 🧑‍💼 Experience  
 
 - **Senior Developer — British Business Bank (Dec 2024 – Present)**  
-  - Spearheading **modular monolith transition**, shaping long-term architecture strategy.  
+  - Researched and evaluated **modular monolith** adoption, presenting pros/cons and shaping long-term architecture strategy.  
   - Streamlining the **dev lifecycle** (from ticket to PR merge), cutting delivery friction.  
   - Driving **process improvements** by identifying bottlenecks and rolling out actionable fixes.  
-  - Mentoring engineers and raising code quality through **reviews, pairing & knowledge sharing**.  
+  - Mentoring engineers and raising code quality through **reviews & knowledge sharing**.  
   - Shipping **Rails + MySQL features** in close collaboration with Product & QA for fast iterations.  
   - Advocating for **strategic engineering initiatives** and aligning them with business goals.  
 

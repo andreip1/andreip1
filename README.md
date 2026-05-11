@@ -46,7 +46,7 @@ Senior Rails engineer focused on scalable architecture, TDD, and fast, reliable 
   - Contributed to **design reviews**, improving usability and overall customer experience.  
   - Participated to **hackathon projects**, driving innovation and team collaboration.  
 
-- **Software Engineer — OpenCorporates (Feb 2022 – Jul 2022)**  
+- **Software Engineer — OpenCorporates (Jul 2021 – Jul 2022)**  
   - Delivered new features in a **Rails codebase**, improving data accessibility.  
   - Collaborated cross-functionally to enhance system maintainability.  
   - Grew technical foundations with **full-stack Rails development**.  

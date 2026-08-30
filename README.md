@@ -28,14 +28,13 @@ Senior Rails engineer focused on scalable architecture, TDD, and fast, reliable 
 
 ### 🧑‍💼 Experience  
 
-- **Senior Developer — British Business Bank (Dec 2024 – Present)**  
+- **Senior Developer — British Business Bank (Dec 2024 – Present)**
+  - Hired and managed a summer 2026 intern, enabling productivity within the first week and strong contribution by week three through regular 1:1s, structured problem-solving coaching, and guidance on navigating the corporate environment.
   - Researched and evaluated **modular monolith** adoption, presenting pros/cons and shaping long-term architecture strategy.
   - Streamlining the **dev lifecycle** (from business need to production deployment), cutting delivery friction.  
   - Driving **process improvements** by identifying bottlenecks and rolling out actionable fixes.  
   - Mentoring engineers and raising code quality through **reviews & knowledge sharing**.  
   - Shipping **Rails + MySQL features** in close collaboration with Product & QA for fast iterations.  
-  - Advocating for **strategic engineering initiatives** and aligning them with business goals.
-  - Advocating for implementing **domain-driven** development practices.
 
 - **Software Engineer — Oyster® (Jul 2022 – Dec 2024)**  
   - Practiced **TDD** to deliver robust, maintainable features across Rails, GraphQL & React.  
